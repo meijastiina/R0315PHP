@@ -5,4 +5,6 @@
  * Date: 23.10.2018
  * Time: 9.23
  */
-echo 'test';
+$number = 1;
+$number = $number + 12;
+echo 'test' . $number;
